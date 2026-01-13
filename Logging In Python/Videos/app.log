@@ -1,0 +1,10 @@
+2026-01-13 15:18:29 -root -DEBUG - This is an debug message
+2026-01-13 15:18:29 -root -INFO - this is an info message
+2026-01-13 15:18:29 -root -WARNING - This is an Warning Message
+2026-01-13 15:18:29 -root -ERROR - This is an error Message
+2026-01-13 15:18:29 -root -CRITICAL - This is an critical Message
+2026-01-13 15:18:39 -root -DEBUG - This is an debug message
+2026-01-13 15:18:39 -root -INFO - this is an info message
+2026-01-13 15:18:39 -root -WARNING - This is an Warning Message
+2026-01-13 15:18:39 -root -ERROR - This is an error Message
+2026-01-13 15:18:39 -root -CRITICAL - This is an critical Message
